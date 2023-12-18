@@ -18,7 +18,7 @@ const defineRoutes = (app) => {
     .post(addNewPatients);
 
   app
-    .route("/patients/:patientId")
+    .route("/patient/:patientId")
     // get specific patient
     .get(getPatientWithId)
 
