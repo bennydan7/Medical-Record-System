@@ -38,3 +38,9 @@ This project implements a RESTful API for an Electronic Medical Record System fo
    git clone https://github.com/your-username/Medical-Record-System.git
    cd medical-record-system
    ```
+
+## Creator 🧑‍💻
+
+- **Name:** Bernard Asiedu Owusu-Dankwah
+- **Student ID:** 11024002
+- **GitHub:** https://github.com/bennydan7
